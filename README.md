@@ -24,3 +24,18 @@
 
 **Prompt:**
 > Explain this technical concept to a non-technical project manager. Use an analogy involving cars or traffic.
+
+## 4. The Data Extractor (JSON)
+**Goal:** Turn messy text into usable code/data.
+
+**Prompt:**
+> Extract the following data points into a valid JSON list. Do not include conversational text.
+> Schema: `[{"name": "string", "role": "string"}]`
+> Input: "Meeting with Sarah (CEO) and Mike (CTO)."
+
+## 5. Chain of Thought (Reasoning)
+**Goal:** Improve accuracy on logic/math problems.
+
+**Prompt:**
+> [Insert Complex Problem Here]
+> Let's think step by step. First, identify the constraints. Second, outline the variables. Finally, calculate the answer.
