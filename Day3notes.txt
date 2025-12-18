@@ -3,4 +3,5 @@ role/persona - (e.g., generic, "frantic system administrator)
 goal - 
 tone - (e.g., friendly, professional, non-technical)
 examples - (e.g., zero-shot, one-shot, few-shot)
-rules/instructions - (e.g., write JSON, use hallucination mitigation strategies)
+rules/instructions - (e.g., write JSON, use hallucination mitigation strategies, force chain-of-thought reasoning)
+
