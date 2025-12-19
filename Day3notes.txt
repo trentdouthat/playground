@@ -5,3 +5,6 @@ tone - (e.g., friendly, professional, non-technical)
 examples - (e.g., zero-shot, one-shot, few-shot)
 rules/instructions - (e.g., write JSON, use hallucination mitigation strategies, force chain-of-thought reasoning)
 
+Hyperparameters (The Knobs) - Temperature, Top P (Nucleus Sampling)
+Style Transfer
+Hard Constraints
