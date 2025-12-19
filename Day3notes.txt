@@ -1,5 +1,5 @@
 prompt components
-role/persona - (e.g., generic, "frantic system administrator)
+role/persona - (e.g., generic, "frantic system administrator","Act as a Senior Cloud Architect")
 goal - 
 tone - (e.g., friendly, professional, non-technical)
 examples - (e.g., zero-shot, one-shot, few-shot)
