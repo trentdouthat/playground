@@ -1,3 +1,40 @@
+Role: Act as a System Architect
+#one-shot or few-shot section
+  Example Input:, Example Output:
+  Review: "The plot was boring and the acting was wooden." Sentiment: Negative
+  Review: "I couldn't take my eyes off the screen!" Sentiment: Positive
+  Review: "It was okay, but the ending felt rushed." Sentiment: Neutral
+  Review: "I laughed, I cried, it was a rollercoaster." Sentiment:
+  Log: "System unreachable at 192.168.1.5"  Category: Network Error
+  Log: "User 404 failed login attempt" Category: Security Alert
+Task: Create 
+Goal: 
+Format: Show as JSON
+
+Role: Act as a System Reliability Engineer (SRE) and System Architect. 
+Task: Analyze the provided raw server logs, classify the severity, and extract the core issue. 
+Context: We are parsing legacy logs to migrate data into a structured dashboard.
+
+# Few-Shot Examples 
+Input: 192.168.1.5 - - [10/Oct/2023:13:55:36] "GET /favicon.ico HTTP/1.0" 200 562 
+Output: {"Severity": "Info", "Category": "Traffic", "Message": "Successful HTTP Request"}
+
+Input: Oct 10 14:02:11 server1 sshd[234]: Failed password for root from 10.0.0.5 port 22 ssh2 
+Output: {"Severity": "Critical", "Category": "Security", "Message": "SSH Brute Force Attempt"}
+
+Input: [Error] ConnectionRefused: Post "http://db-service:5432": dial tcp 10.96.0.1:5432: connect: connection refused 
+Output: {"Severity": "Error", "Category": "Database", "Message": "DB Connection Failure"}
+
+# Actual Task 
+Input: [INSERT NEW LOG DATA HERE] 
+Goal: Convert the input into the JSON schema established in the examples. 
+Format: JSON
+
+
+
+
+
+
 1. Prompt Frameworks (The Acronyms)
 These are structural formulas to help you get better results when typing a prompt.
 
