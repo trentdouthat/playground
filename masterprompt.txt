@@ -1,0 +1,99 @@
+1. Prompt Frameworks (The Acronyms)
+These are structural formulas to help you get better results when typing a prompt.
+
+R-T-F:
+
+Role (Act as a...)
+
+Task (Create a...)
+
+Format (Show as...)
+
+T-A-G:
+
+Task (Define the task)
+
+Action (State the action)
+
+Goal (Clarify the goal)
+
+B-A-B:
+
+Before (Explain Problem)
+
+After (State the Goal/Task) Note: The image labels this 'Task' but conceptually it usually refers to the 'After' state.
+
+Bridge (Ask for Output/Format)
+
+C-A-R-E:
+
+Context (Give the context)
+
+Action (Describe action)
+
+Result (Clarify results)
+
+Example (Give the example)
+
+A-P-E:
+
+Action (State the action)
+
+Purpose (Create a purpose)
+
+Expectation (Describe expectation)
+
+E-R-A:
+
+Expectation (Describe expectation)
+
+Role (Act as a role)
+
+Action (State the action)
+
+R-I-S-E:
+
+Role (Specify the role)
+
+Input (Describe the input)
+
+Steps (Ask for output steps)
+
+Expectation (Describe expectation)
+
+R-A-C-E:
+
+Role (Specify the role)
+
+Action (State the action)
+
+Context (Give the context)
+
+
+
+2. Tools & Modes (What the AI can do)
+The left column explains specific modes you can use within platforms like ChatGPT:
+
+Search (Web Browsing): Fetches real-time info (market data, sports scores).
+
+Deep Research: Generates structured, multi-step reports using multiple sources (good for strategy docs).
+
+Vision (Image Input): Analyzes images, screenshots, or diagrams to create text or code.
+
+Data Analysis: Processes spreadsheets and performs automated calculations or creates charts.
+
+File Uploads: Reads PDFs/Docs to summarize or extract insights.
+
+Canvas: A collaborative workspace for coding or writing that allows for real-time co-creation.
+
+Agent Mode: Handles multi-step tasks like researching options and executing bookings.
+Expectation (Describe expectation)
+
+3. Popular AI Tools Listed
+The right column suggests tools for different workflows:
+
+Chatbots: ChatGPT, Grok, Claude, Perplexity.
+
+Design/Visuals: Midjourney, Leonardo AI, Canva, Gamma AI.
+
+Productivity: Notion, Superhuman AI.
